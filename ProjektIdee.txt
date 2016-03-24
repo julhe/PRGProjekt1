@@ -1,0 +1,5 @@
+Die verrückte Börse
+
+Ein Börse mit Kursen, welche es aus vollig zusammenhangslosen Werten aus allen Ecken des World-Wide-Web generiert werden. 
+So kann ein Kurs aus den Windgeschwindigkeiten auf den Fiji-Inseln und dem Klickzahlen eines x-belibiegen Artikels auf Zeit.de generiert werden.
+Die Zusammenhänge sind für die Benutzer natürlich nicht einsehbar. Jeder Nutzer erhält ein eigenes Konto und einen Startguthaben.
