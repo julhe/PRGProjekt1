@@ -8,6 +8,8 @@ Die Zusammenhänge sind für die Benutzer natürlich nicht einsehbar. Jeder Nutzer 
 
 === Feedback Alpers, 2016-04-12 ===
 
+Zunächst eine formale Kritik: Sie sollten diese Datei im Verzeichnis Dokumentation speichern, nicht im Repository selbst. Bitte passen Sie das noch an.
+
 Sie haben leider nicht beschrieben, welche Interaktionsmöglichkeiten Ihr Spiel beinhalten soll. Genau darum ging es aber bei der Aufgabe. Sie haben stattdessen beschrieben, wie Daten (für die Datenbank) erhoben werden sollen und das ist für die eigentliche Anwendung zweitrangig, denn da geht es ja darum, eine interaktive Anwendung zu erstellen.
 
 Lassen Sie deshalb vorerst weitgehend außen vor, wie diese Daten erhoben werden sollen, denn effektiv würden Sie hier mit (Pseudo-)Zufallszahlen vergleichbares erhalten. Beschreiben Sie stattdessen, was das eigentliche Spiel ausmacht. (Orientieren Sie sich dazu an Kap. 5.)
