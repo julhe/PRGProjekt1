@@ -100,3 +100,8 @@ Es ist dabei sehr wahrscheinlich, dass Sie (vielleicht auch erst später währen
 
 Viele Grüße,
 Markus Alpers
+
+
+==Feedback Jonathan==
+
+Man könnte die kaufbaren Anteile limitieren und die Möglichkeit einbauen Anteile zu (ver-)kaufen. So kann man dann anderen Spielern anbieten ihre Anteile über dem momentanen Marktwert zu kaufen, wenn man meint sie werden sich gut entwickeln (z.B. wird es zum Abend hin auf den Fiji-Inseln jeden Tag windiger, einem Spieler fällt das auf, dass die Aktie jeden Abend steigt, also versucht er morgens alle Anteile an dieser Aktie teuer zu kaufen, um sie Abends noch teuerer zu verkaufen.)
