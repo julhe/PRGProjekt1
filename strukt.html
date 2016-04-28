@@ -1,3 +1,47 @@
+==Login==
+Eingabefeld: Alias
+Eingabefeld: Passwort
+Button: Login
+Checkbox: Angemeldet bleiben
+
+==Startseite==
+Text: Überschrift (Die Verückte Börse) 
+Text: Kontostand in Euro 
+
+Liste / Tabelle der Kurse
+Für jedes Tabellen Element:
+	==Kopf-Teil==
+		Text / Link: Name der Firma, gleichzeit ein Hyperlink zur Kursverlaufsübersicht
+		Text: Aktuelle Anteile (Prozent und Stückzahl)
+		Text: Letzte Kursveränderung
+		Grafik / Link: Diagramm der Letzen Veränderung, öffnet das "KursStatistik" Popup
+		Hintergrundfarbe: 
+			Weiss = keine Anteile
+			Blau = mind. eine Aktie
+			(Interpolation)
+			Grün = alle Anteile
+	
+	==Handeln-Teil=
+		Text: Handeln
+		Eingabefeld (Nummerisch oder Prozentual): Anzahl der Anktien
+		Button: Kaufen
+		Button: Verkaufen
+
+
+Link: Impressum
+
+==Kursstatistik==
+
+Reiter: Anssicht für das Diagramm
+ 	1 Tag
+ 	1 Woche
+ 	2 Wochen
+ 	1 Monat
+ 	Verteilung der Anteile
+ 	
+Grafik: Diagramm der Kurse, je nach Auswahl
+	 
+== Alt ==
 <!doctype html>
 <html lang=de>
 <head>
