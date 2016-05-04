@@ -20,8 +20,10 @@ Wenn Sie keine rechte Idee bekommen, dann machen Sie das bitte für das folgende
 Das Spiel bietet in der Haupt- bzw Startansicht dem Spieler eine Übersicht über alle derzeitigen Börsenkurse.
 
 Hier kann der Spieler seine derzeitigen "Einsätze" bei jenen Kursen sehen und sich entscheiden ob er Anteile kauft oder Verkauft.
-Ein Kontostandt über der Kursansicht informiert den Spieler ausserdem über seinen Kontostand in €. Um dem ganzen einwenig Spannung zu geben, wird jeden Tag ein kleiner Betrag vom Konto des Spielers entzogen. (Der Spieler ist somit gezwungen immer ein wenig Gewinn zu erwirschaften.)
-Fällt der Kontostand unter 0€, so ist das Spiel verloren. Seine Anteile werden verkauft und sein Kontostand zurückgesetzt.
+Ein Kontostandt über der Kursansicht informiert den Spieler ausserdem über seinen Kontostand in €. 
+Um dem ganzen einwenig Spannung zu geben, wird jeden Tag ein kleiner Betrag vom Konto des Spielers entzogen. (Der Spieler ist somit gezwungen immer ein wenig Gewinn zu erwirschaften.)
+Fällt der Kontostand unter 0€, so ist das Spiel verloren. 
+eine Anteile werden verkauft und sein Kontostand zurückgesetzt.
 
 Mit einem Klick auf einen einen Kurs wird dem Spieler eine Ansicht präsentiert die ihn über die Kurs veränderung der vergangen Tag informiert.
 
@@ -109,3 +111,24 @@ Man könnte die kaufbaren Anteile limitieren und die Möglichkeit einbauen Antei
 ==Feedback Jaacii==
 Ich mag die Idee. Angeben was die Benutzer interagieren hätte man wirklich noch. Ich denke mal wetten auf Kurse, Guthaben aufladen etc.
 Bin gespannt wie sich dein Projekt entwickelt, insbesondere bin ich gespannt auf die Kurse von den Fijiinseln.
+
+===================================
+=== Feedback Alpers, 2016-05-04 ===
+===================================
+
+Leider haben Sie da keine Interaktion zwischen Mensch und Programm beschrieben, die über das EVA-Prinzip hinausgeht; Dazu hatte ich vor einige Wochen etwas im Lernraum veröffentlicht: http://www.elearning.haw-hamburg.de/mod/book/view.php?id=607850&chapterid=1846 Lesen Sie sich den Eintrag bitte durch und arbeiten deutlich mehr Interaktionsmöglichkeiten aus.
+
+Außerdem soll es sich um eine webbasierte Anwendung handeln. Die Tatsache, dass Sie willkürlich aus beliebigen Webressourcen Werte ins Spiel integrieren wollen unterscheidet sich nicht von einem Pseudozufallszahlengenerator (was ich aber schon im letzten Feedback geschrieben hatte): Damit die Anwendung webbasiert ist, ist es ein Minimum, dass Spieler von unterschiedlichen Orten weltweit aus an einer gemeinsamen Partie teilnehmen können.
+
+Überarbeiten Sie Ihre Projektidee deshalb bitte so, dass es eine vollwertige interaktive webbasierte Anwendung beschreibt.
+
+Wertung 2: Projektbeschreibung: gesamt: 1 / 10
+- Pro Interaktionsmöglichkeit: 0
+- Knappe aber klare Beschreibung: 1 (Die Beschreibung ist zwar knapp und klar, aber es fehlt der eigentliche Spielablauf; wenn der sich auf das An- und Verkaufen von Aktien beschränkt, ist es für ein Projekt bei weitem zu wenig.)
+- Werbeslogans u.ä.: 0 
+- Designaspekte: 0 
+- Voraussetzung bekannten Wissens: 0 
+
+=====================
+=== Feedback Ende ===
+=====================
