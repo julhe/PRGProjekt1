@@ -23,9 +23,9 @@ Hier kann der Spieler seine derzeitigen "Einsätze" bei jenen Kursen sehen und s
 Ein Kontostandt über der Kursansicht informiert den Spieler ausserdem über seinen Kontostand in €. 
 Um dem ganzen einwenig Spannung zu geben, wird jeden Tag ein kleiner Betrag vom Konto des Spielers entzogen. (Der Spieler ist somit gezwungen immer ein wenig Gewinn zu erwirschaften.)
 Fällt der Kontostand unter 0€, so ist das Spiel verloren. 
-eine Anteile werden verkauft und sein Kontostand zurückgesetzt.
+Seine Anteile werden verkauft und sein Kontostand zurückgesetzt.
 
-Mit einem Klick auf einen einen Kurs wird dem Spieler eine Ansicht präsentiert die ihn über die Kurs veränderung der vergangen Tag informiert.
+Mit einem Klick auf einen einen Kurs wird dem Spieler eine Ansicht präsentiert die ihn über die Kursveränderung der vergangen Tag informiert.
 
 === Zweiter Aufgabenblock (identisch für alle Studierenden) ===
 
