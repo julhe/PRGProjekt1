@@ -1,4 +1,10 @@
-﻿=====================================
+﻿===========================
+=== Nachtrag 2016-07-17 ===
+===========================
+(Work-In-Progress)
+Eine Top-5 zeigt die benutzer mit den meisten Gewinnen pro Tag.
+
+=====================================
 === Projektidee julhe, 2016-04-16 ===
 =====================================
 
@@ -98,8 +104,8 @@ Leider keine Änderungen seit dem letzten Feedback.
 
 Bitte beachten Sie, dass eine der Voraussetzungen zum Erhalt des Leistungsnachweises darin besteht, dass Sie kontinuierlich am Projekt arbeiten. Wie schon mehrfach erklärt gilt: Kontinuierliches Arbeiten bedeutet jede Woche am Projekt zu arbeiten. Und da für das Projekt ein Arbeitsaufwand von 80 Stunden (innerhalb der 16 Wochen Vorlesungszeit) aufgebracht werden soll, bedeutet das, dass Sie pro Woche 5 Stunden für das Projekt investieren müssen. Wenn Sie weiterhin deutlich weniger am Projekt arbeiten, dann muss ich es auf der Basis des aktuellen Stands bewerten.
 
-===========================
-=== Nachtrag 2016-07-17 ===
-===========================
-(Work-In-Progress)
-Eine Top-5 zeigt die benutzer mit den meisten Gewinnen pro Tag.
+===================================
+=== Feedback Alpers, 2016-07-27 ===
+===================================
+
+Die aktuelle Ergänzung entspricht einem Arbeitsaufwand von ca. 5 Minuten. 5 Minuten in zwei Wochen entspricht einer Stunde in 24 Wochen. Das entspricht widerum knapp 2,1 Stunden in einem Jahr. Und damit arbeiten Sie momentan so, dass Sie für das gesamte Projekt rund 38 Jahre brauchen würden.
